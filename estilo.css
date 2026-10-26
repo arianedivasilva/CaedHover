@@ -18,7 +18,7 @@ h1 {
 
 
 h1 span {
-  color: #ee8822;
+  color: #5304b9;
 }
 
 
@@ -38,7 +38,7 @@ body > p {
 
 
 .card {
-  width: 240px;
+  width: 280px;
   max-width: 100%;
 }
 
@@ -101,7 +101,7 @@ body > p {
 
 .verso p {
   margin: 0;
-  color: #555;
+  color: #88067d;
   font-size: 14px;
   line-height: 1.5;
 }
